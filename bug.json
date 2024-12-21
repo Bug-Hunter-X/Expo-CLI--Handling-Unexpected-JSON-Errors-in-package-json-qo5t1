@@ -1,0 +1,5 @@
+This error occurs when using Expo CLI with a project that has a package.json file that contains unexpected or invalid JSON.  This can happen due to typos, extra characters, or improperly formatted JSON data within the file.  For example, a missing comma, an extra bracket, or an incorrectly quoted string can trigger this error. The error message may not explicitly state the JSON problem, leading to confusion.
+
+```bash
+Error: Unexpected token in JSON at position...
+```
